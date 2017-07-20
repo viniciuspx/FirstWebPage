@@ -10,19 +10,19 @@
 .title{
   color: white;
   background-color: #33BEBE;
-  max-width: 1100px;
+  max-width: 100%;
   text-align: center;
   font-size: 48px;
 }
 
 .image{
-  max-width: 460px;
+  max-width: 25%;
   margin: 10px;
 }
 
 .text{
   color: #7C8B88;
-  max-width: 705px;
+  max-width: 75%;
   margin: 10px;
   text-align: justify;
 }
